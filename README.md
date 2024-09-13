@@ -10,7 +10,7 @@ Tabelas baixadas:
 •	Exames por BI-RADS segundo Tempo Exame - Local de Atendimento (Somente mulheres) - Giruá e Panambi - (2019 – 2024);
 •	Exames por BI-RADS segundo Tempo Exame - Local de Residência (Somente mulheres) - Giruá e Panambi - (2019 – 2024).
 
-Linguagens de programação no qual foi desenvolvido e está disponibilizado o programa
+Linguagens de programação no qual foi desenvolvido e está disponibilizado o programa:
 •	Google Colab (1.0.0);
 •	Python (3.10.12);
 •	Selenium (1.0.14);
